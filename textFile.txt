@@ -1,5 +1,6 @@
-1
+-shallow 1
 2
 3
 -shallow 4
 -shallow 5
+-shallow 6 (also changed 1)
