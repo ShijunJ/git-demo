@@ -1,1 +1,4 @@
-This is done before fecthing
+
+1.On 1st local repo:This is done before fecthing
+
+2.On 2nd local repo:What the heck is going on
